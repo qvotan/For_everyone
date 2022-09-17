@@ -1,4 +1,4 @@
-# 3.1
+# 1
 my_list = ['a', 'b', [1, 2, 3], 'd']
 [[print(i) for i in x] for x in my_list if isinstance(x, list)]
 
